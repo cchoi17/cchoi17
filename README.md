@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cchoi17. Nice to meet you!
+- 👋 Hi, My name is Christina Choi
 - 🌱 I’m currently learning computer science in my Senior Year at Loyola Marymount University
 - Located in Los Angeles, California 90045.
 - 📫 How to reach me: cchoi17@lion.lmu.edu
