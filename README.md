@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Christina Choi
-- 🌱 I’m currently learning computer science in my Senior Year at Loyola Marymount University
-- Located in Los Angeles, California 90045.
-- 📫 How to reach me: cchoi17@lion.lmu.edu
+- 🌱 I’m a newly Computer Science graduate from Loyola Marymount University
+- Located in Anaheim, California 92805.
+- 📫 How to reach me: christinajchoi27@gmail.com
 
 <!---
 cchoi17/cchoi17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
